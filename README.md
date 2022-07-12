@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-
+Hi, I am YongJia Ji
+Living, learning, developing
+<!--
 ![Jsir's card name](https://cardivo.vercel.app/api?name=Jsir&description=I%27m+a+React+developer+from+Uttar+SuZhou%2C+China.+Who+also+code+in+Python+and+Nodejs+Passionate+towards+learning%2C+Reading%20and%20+coding.%0D%0A&image=https://avatars.githubusercontent.com/u/1296232?v=4.png&pattern=plus&opacity=0.05&backgroundColor=%23ecf0f1)
-
+-->
 ![Visitors](https://komarev.com/ghpvc/?username=skdream&label=Visitors&style=for-the-badge)
 
 
