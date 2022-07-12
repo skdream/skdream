@@ -52,13 +52,13 @@ Living, learning, developing
 <details>
   <summary>🏆 Github Trophies</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=skdream&theme=nord" alt="Jatin's Github Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=skdream&theme=nord" alt="Jsir's Github Activity Graph" />
 </details>
 
 <details>
   <summary>🖱️ Most used languages</summary>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skdream&show_icons=true&locale=en&layout=compact&theme=dark" alt="Jatin's Github Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=skdream&show_icons=true&locale=en&layout=compact&theme=dark" alt="Jsir's Github Activity Graph" />
 </details>
 
 <!--
